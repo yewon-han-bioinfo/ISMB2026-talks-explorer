@@ -1,5 +1,7 @@
 # ISMB 2026 Talks Explorer
 
+<p align="center"><img src="marv_ismb2026.png" alt="Marv, the ISCB mascot, thinking about ISMB 2026" width="320"></p>
+
 Browse the ISMB 2026 talks (and co-located ICBO) by track, search them, and star the ones you don't want to miss. It's one self-contained HTML file that runs offline in any browser.
 
 There are two ways to use it, whichever you prefer:
