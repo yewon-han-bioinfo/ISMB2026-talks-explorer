@@ -6,8 +6,8 @@ Browse the ISMB 2026 talks (and co-located ICBO) by track, search them, and star
 
 Talks only; posters aren't listed (ISCB doesn't publish them openly). Data is pulled straight from the official schedules (talk times are EDT, the conference local time), snapshotted 2026-07-14. Stars are saved in your browser.
 
-Repurposed from [woominsong](https://github.com/woominsong)'s ICML 2026 skill; thanks for sharing it.
-
-Hope you enjoy ISMB 2026!
+Repurposed from [woominsong](https://github.com/woominsong)'s skills for ICML2026; thanks for sharing it.
 
 Not affiliated with ISCB/ISMB.
+
+Hope you enjoy ISMB 2026!
