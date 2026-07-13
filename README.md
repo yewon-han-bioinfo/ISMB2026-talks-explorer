@@ -9,7 +9,7 @@ There are two ways to use it, whichever you prefer:
 
 Talks only; posters aren't listed (ISCB doesn't publish them openly). Data is pulled straight from the official schedules (talk times are EDT, the conference local time), snapshotted 2026-07-14. Stars are saved in your browser.
 
-Repurposed from [woominsong](https://github.com/woominsong)'s skills for ICML2026; thanks for sharing it.
+Repurposed from [woominsong](https://github.com/woominsong)'s skills for ICML2026; thanks for sharing it. Thanks to [luoyunan](https://github.com/luoyunan) for the ideas to bookmark talks and make it work on mobile.
 
 Not affiliated with ISCB/ISMB.
 
